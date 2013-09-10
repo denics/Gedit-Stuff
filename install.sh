@@ -21,5 +21,5 @@ cp mime/* ~/.local/share/mime/ -r
 # copy styles to
 #  ~/.local/share/gtksourceview-3.0/styles/
 #  /usr/local/share/gtksourceview-3.0/styles/
-mkdir -p ~/.local/share/gtksourceview-3.0/styles/ -r
+mkdir -p ~/.local/share/gtksourceview-3.0/styles/
 cp styles/* ~/.local/share/gtksourceview-3.0/styles/ -r
